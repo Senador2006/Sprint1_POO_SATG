@@ -6,6 +6,9 @@ public class EquipeManutencao {
     private boolean disponivel = true;
 
     public EquipeManutencao(String nome) {
+        if (nome == null || nome.isBlank()) {
+            throw new IllegalArgumentException("Nome da equipe é obrigatório.");
+        }
         this.nome = nome;
         System.out.println("[INIT] Equipe criada: " + nome);
     }
@@ -24,7 +27,9 @@ public class EquipeManutencao {
     }
 
     public void finalizarAtendimento() {
-        System.out.println("[EQUIPE] " + nome + " finalizou atendimento.");
+        if (!disponivel) {
+            System.out.println("[EQUIPE] " + nome + " finalizou atendimento.");
+        }
         this.disponivel = true;
     }
 

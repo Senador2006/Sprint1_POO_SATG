@@ -1,0 +1,4 @@
+km_inicial,km_final,vegetacao_cm,prioridade
+0.0,5.0,20.0,MEDIA
+5.0,10.0,40.0,CRITICA
+10.0,15.0,45.0,CRITICA

@@ -1,0 +1,7 @@
+rodada,tipo,intervalo_km,vegetacao_cm,prioridade,equipe
+1,"CRITICO_ATENDIDO","KM 5.0 ao 10.0",41.00,"CRITICA","Equipe A"
+1,"CRITICO_ATENDIDO","KM 10.0 ao 15.0",46.00,"CRITICA","Equipe B"
+2,"CRITICO_ATENDIDO","KM 5.0 ao 10.0",41.00,"CRITICA","Equipe A"
+2,"CRITICO_ATENDIDO","KM 10.0 ao 15.0",46.00,"CRITICA","Equipe B"
+3,"CRITICO_ATENDIDO","KM 5.0 ao 10.0",41.00,"CRITICA","Equipe A"
+3,"CRITICO_ATENDIDO","KM 10.0 ao 15.0",46.00,"CRITICA","Equipe B"

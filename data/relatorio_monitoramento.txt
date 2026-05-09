@@ -1,0 +1,33 @@
+RELATÓRIO DE MONITORAMENTO
+==========================
+
+--- Rodada 1 ---
+Trechos críticos (2):
+  • KM 5.0 ao 10.0 | Vegetação: 41.0 cm | Prioridade: CRITICA
+  • KM 10.0 ao 15.0 | Vegetação: 46.0 cm | Prioridade: CRITICA
+Equipes alocadas (2):
+  • Equipe Equipe A atendendo -> KM 5.0 ao 10.0 | Vegetação: 41.0 cm | Prioridade: CRITICA
+  • Equipe Equipe B atendendo -> KM 10.0 ao 15.0 | Vegetação: 46.0 cm | Prioridade: CRITICA
+Trechos críticos SEM equipe (0):
+  (nenhum)
+
+--- Rodada 2 ---
+Trechos críticos (2):
+  • KM 5.0 ao 10.0 | Vegetação: 41.0 cm | Prioridade: CRITICA
+  • KM 10.0 ao 15.0 | Vegetação: 46.0 cm | Prioridade: CRITICA
+Equipes alocadas (2):
+  • Equipe Equipe A atendendo -> KM 5.0 ao 10.0 | Vegetação: 41.0 cm | Prioridade: CRITICA
+  • Equipe Equipe B atendendo -> KM 10.0 ao 15.0 | Vegetação: 46.0 cm | Prioridade: CRITICA
+Trechos críticos SEM equipe (0):
+  (nenhum)
+
+--- Rodada 3 ---
+Trechos críticos (2):
+  • KM 5.0 ao 10.0 | Vegetação: 41.0 cm | Prioridade: CRITICA
+  • KM 10.0 ao 15.0 | Vegetação: 46.0 cm | Prioridade: CRITICA
+Equipes alocadas (2):
+  • Equipe Equipe A atendendo -> KM 5.0 ao 10.0 | Vegetação: 41.0 cm | Prioridade: CRITICA
+  • Equipe Equipe B atendendo -> KM 10.0 ao 15.0 | Vegetação: 46.0 cm | Prioridade: CRITICA
+Trechos críticos SEM equipe (0):
+  (nenhum)
+
