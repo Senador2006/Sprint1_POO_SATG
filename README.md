@@ -169,4 +169,4 @@ Consolidado:
 - Mensagens de log no **console** também existem em classes de domínio (`TrechoRodovia`, `EquipeManutencao`, etc.) para acompanhamento durante a demo; relatórios formais estão nos arquivos acima.
 
 ## Resposta da Pergunta Reflexão
-- Tornar (´nivelVegetacao´) público abre caminho para estados inválidos e para “mentir” no nível de vegetação, o que corrompe a previsão de criticidade, a alocação de equipes e a fidelidade dos artefatos persistidos (CSVs/relatórios), tudo isso sem passar pelos pontos únicos onde a regra de negócio deveria ser aplicada.
+- Tornar `nivelVegetacao` público abre caminho para estados inválidos e para “mentir” no nível de vegetação, o que corrompe a previsão de criticidade, a alocação de equipes e a fidelidade dos artefatos persistidos (CSVs/relatórios), tudo isso sem passar pelos pontos únicos onde a regra de negócio deveria ser aplicada.
