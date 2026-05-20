@@ -167,3 +167,6 @@ Consolidado:
 - A **matriz de crescimento** está em código (`Main.CRESCIMENTO_CM_POR_RODADA`). Se houver **mais rodadas** na config do que **linhas** na matriz, o crescimento extra é **0** para todos os trechos.
 - Não há banco de dados neste projeto: persistência é apenas **CSV** (simples e sem dependências extras).
 - Mensagens de log no **console** também existem em classes de domínio (`TrechoRodovia`, `EquipeManutencao`, etc.) para acompanhamento durante a demo; relatórios formais estão nos arquivos acima.
+
+## Resposta da Pergunta Reflexão
+- Tornar (´nivelVegetacao´) público abre caminho para estados inválidos e para “mentir” no nível de vegetação, o que corrompe a previsão de criticidade, a alocação de equipes e a fidelidade dos artefatos persistidos (CSVs/relatórios), tudo isso sem passar pelos pontos únicos onde a regra de negócio deveria ser aplicada.
